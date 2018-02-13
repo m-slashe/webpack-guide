@@ -2,3 +2,4 @@ node_modules
 stats.json
 dist
 .idea
+package-lock.json

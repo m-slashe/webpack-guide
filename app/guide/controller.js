@@ -6,6 +6,7 @@ function GuideController($scope) {
 		'Teste3',
 		'Teste4',
 		'Teste0',
+		'Teste10',
 		'Teste6'
 	];
 
